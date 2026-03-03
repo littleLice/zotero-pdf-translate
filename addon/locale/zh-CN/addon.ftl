@@ -41,6 +41,7 @@ service-collinsdict=科林斯词典(en→zh)🔊
 service-youdaodict=有道词典(en→zh)🔊
 service-freedictionaryapi=FreeDictionaryAPI(en→en)
 service-webliodict=Weblio Dict(en→ja)
+service-siliconflow=硅基流动
 service-errorPrefix=[请求错误]
     此翻译服务不可用，可能是密钥错误，也可能是请求过快。
     可以尝试其他翻译服务，或者来此查看相关回答：
@@ -157,9 +158,30 @@ service-mtranserver-dialog-versionlabel=使用MTranServer v3.0.0+
 service-pot-dialog-port=端口
 
 service-nllb-dialog-model=nllb 模型
+
 service-nllb-dialog-apiendpoint=nllb-api 接口
+
 service-nllb-dialog-apistream=nllb-api 流式输出
+
 service-nllb-dialog-serveendpoint=nllb-serve 接口
+
 service-nllb-dialog-apilabel=nllb-api 文档
+
 service-nllb-dialog-servelabel=nllb-serve 文档
+
+
+
+service-siliconflow-dialog-endPoint=接口
+
+service-siliconflow-dialog-model=模型
+
+service-siliconflow-dialog-temperature=温度
+
+service-siliconflow-dialog-prompt=提示词
+
+service-siliconflow-dialog-stream=流式输出
+
+
+
+
 
