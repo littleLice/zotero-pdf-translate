@@ -42,6 +42,7 @@ service-youdaodict=Youdao Dict(en→zh)🔊
 service-freedictionaryapi=FreeDictionaryAPI(en→en)
 service-webliodict=Weblio Dict(en→ja)
 service-siliconflow=SiliconFlow
+service-siliconflowGlobal=SiliconFlow(Global)
 service-errorPrefix=[Request Error]
     Service not available, invalid secret, or request too fast.
     Use another translation service or post the issue here: 
@@ -180,6 +181,16 @@ service-siliconflow-dialog-temperature=Temp
 service-siliconflow-dialog-prompt=Prompt
 
 service-siliconflow-dialog-stream=Stream
+
+service-siliconflowGlobal-dialog-endPoint=EndPoint
+
+service-siliconflowGlobal-dialog-model=Model
+
+service-siliconflowGlobal-dialog-temperature=Temp
+
+service-siliconflowGlobal-dialog-prompt=Prompt
+
+service-siliconflowGlobal-dialog-stream=Stream
 
 
 

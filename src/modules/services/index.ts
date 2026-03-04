@@ -46,6 +46,7 @@ import { YoudaoZhiyunLLM } from "./youdaozhiyunllm";
 import { DeepLCustom } from "./deeplcustom";
 import { DeepLX } from "./deeplx";
 import { SiliconFlow } from "./siliconflow";
+import { SiliconFlowGlobal } from "./siliconflowGlobal";
 
 const register: TranslateService[] = [
   Aliyun,
@@ -92,6 +93,7 @@ const register: TranslateService[] = [
   YoudaoZhiyun,
   YoudaoZhiyunLLM,
   SiliconFlow,
+  SiliconFlowGlobal,
 ];
 
 export class TranslationServices {

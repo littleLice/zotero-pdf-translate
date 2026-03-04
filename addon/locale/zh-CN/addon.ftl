@@ -42,6 +42,7 @@ service-youdaodict=有道词典(en→zh)🔊
 service-freedictionaryapi=FreeDictionaryAPI(en→en)
 service-webliodict=Weblio Dict(en→ja)
 service-siliconflow=硅基流动
+service-siliconflowGlobal=硅基流动(海外)
 service-errorPrefix=[请求错误]
     此翻译服务不可用，可能是密钥错误，也可能是请求过快。
     可以尝试其他翻译服务，或者来此查看相关回答：
@@ -180,6 +181,16 @@ service-siliconflow-dialog-temperature=温度
 service-siliconflow-dialog-prompt=提示词
 
 service-siliconflow-dialog-stream=流式输出
+
+service-siliconflowGlobal-dialog-endPoint=接口
+
+service-siliconflowGlobal-dialog-model=模型
+
+service-siliconflowGlobal-dialog-temperature=温度
+
+service-siliconflowGlobal-dialog-prompt=提示词
+
+service-siliconflowGlobal-dialog-stream=流式输出
 
 
 
