@@ -43,6 +43,7 @@ service-freedictionaryapi=FreeDictionaryAPI(en→en)
 service-webliodict=Weblio Dict(en→ja)
 service-siliconflow=硅基流动
 service-siliconflowGlobal=硅基流动(海外)
+service-ollama=Ollama
 service-errorPrefix=[请求错误]
     此翻译服务不可用，可能是密钥错误，也可能是请求过快。
     可以尝试其他翻译服务，或者来此查看相关回答：
@@ -191,6 +192,26 @@ service-siliconflowGlobal-dialog-temperature=温度
 service-siliconflowGlobal-dialog-prompt=提示词
 
 service-siliconflowGlobal-dialog-stream=流式输出
+
+
+
+service-ollama-dialog-endPoint=接口
+
+
+
+service-ollama-dialog-model=模型
+
+
+
+service-ollama-dialog-temperature=温度
+
+
+
+service-ollama-dialog-prompt=提示词
+
+
+
+service-ollama-dialog-stream=流式输出
 
 
 

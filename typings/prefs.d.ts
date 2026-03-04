@@ -111,11 +111,6 @@ declare namespace _ZoteroTypes {
       "siliconflow.temperature": string;
       "siliconflow.prompt": string;
       "siliconflow.stream": boolean;
-      "siliconflowGlobal.endPoint": string;
-      "siliconflowGlobal.model": string;
-      "siliconflowGlobal.temperature": string;
-      "siliconflowGlobal.prompt": string;
-      "siliconflowGlobal.stream": boolean;
     };
   }
 }

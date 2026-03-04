@@ -43,6 +43,7 @@ service-freedictionaryapi=FreeDictionaryAPI(en→en)
 service-webliodict=Weblio Dict(en→ja)
 service-siliconflow=SiliconFlow
 service-siliconflowGlobal=SiliconFlow(Global)
+service-ollama=Ollama
 service-errorPrefix=[Request Error]
     Service not available, invalid secret, or request too fast.
     Use another translation service or post the issue here: 
@@ -191,6 +192,26 @@ service-siliconflowGlobal-dialog-temperature=Temp
 service-siliconflowGlobal-dialog-prompt=Prompt
 
 service-siliconflowGlobal-dialog-stream=Stream
+
+
+
+service-ollama-dialog-endPoint=EndPoint
+
+
+
+service-ollama-dialog-model=Model
+
+
+
+service-ollama-dialog-temperature=Temp
+
+
+
+service-ollama-dialog-prompt=Prompt
+
+
+
+service-ollama-dialog-stream=Stream
 
 
 

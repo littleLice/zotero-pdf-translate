@@ -43,6 +43,7 @@ service-freedictionaryapi=FreeDictionaryAPI(en→en)
 service-webliodict=Weblio Dict(en→ja)
 service-siliconflow=SiliconFlow
 service-siliconflowGlobal=SiliconFlow(Global)
+service-ollama=Ollama
 service-errorPrefix=[Errore nella richiesta]
     Servizio di traduzione non disponibile, segreto non valido, o richiesta troppo rapida.
     Si prega di usare un altro servizio di traduzione o di segnalare il problema qui: 
@@ -184,4 +185,14 @@ service-siliconflowGlobal-dialog-temperature=Temperatura
 service-siliconflowGlobal-dialog-prompt=Prompt
 
 service-siliconflowGlobal-dialog-stream=Stream
+
+service-ollama-dialog-endPoint=EndPoint
+
+service-ollama-dialog-model=Modello
+
+service-ollama-dialog-temperature=Temperatura
+
+service-ollama-dialog-prompt=Prompt
+
+service-ollama-dialog-stream=Stream
 
